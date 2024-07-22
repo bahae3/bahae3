@@ -1,6 +1,6 @@
 # Hi there, I'm Bahae 👋
 
-Welcome to my GitHub profile! I'm a Softaware Engineering student with a love for creating web applications and exploring new technologies.
+Welcome to my GitHub profile! I'm a Software Engineering student with a love for creating web applications and exploring new technologies.
 
 ## About Me
 
@@ -9,6 +9,8 @@ Welcome to my GitHub profile! I'm a Softaware Engineering student with a love fo
 
 ## Skills
 
-- **Languages:** HTML, CSS, JavaScript, Python, MySQL
-- **Frameworks and Libraries:** Flask, Node.js, Express
-- **Tools:** Git, VS Code
+- **Languages:** HTML, CSS, JavaScript, Python, MySQL, Java
+- **Frameworks:** Flask, Node.js, Express
+- **Python Libraries:** requests, smtplib, sqlalchemy, selenium, bs4 (BeautifulSoup)
+- **JS Libraries:** bodyParser, axios
+- **Tools:** Git, VS Code, PyCharm
