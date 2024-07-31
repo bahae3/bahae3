@@ -9,8 +9,9 @@ Welcome to my GitHub profile! I'm a Software Engineering student with a love for
 
 ## Skills
 
-- **Languages:** HTML, CSS, JavaScript, Python, MySQL, SQLite, Java
+- **Languages:** HTML, CSS, JavaScript, Python, Java
 - **Frameworks:** Flask, Node.js, Express.js
+- **Databases:** MySQL, PostgreSQL, SQLite
 - **Python Libraries:** requests, smtplib, sqlalchemy, selenium, bs4 (BeautifulSoup)
 - **JS Libraries:** bodyParser, axios
 - **Tools:** Git, APIs, VS Code, PyCharm
