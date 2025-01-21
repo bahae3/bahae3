@@ -1,6 +1,6 @@
 # Hi there, I'm Bahae 👋
 
-Welcome to my GitHub profile! I'm a Software Engineering student with a love for creating web applications and exploring new technologies.
+Welcome to my GitHub profile! I'm a Software Engineering student in the International University of Rabat (UIR), Rabat, Morocco with a love for creating web and mobile applications and exploring new technologies.
 
 ## About Me
 
@@ -9,8 +9,8 @@ Welcome to my GitHub profile! I'm a Software Engineering student with a love for
 
 ## Skills
 
-- **Languages:** HTML, CSS, JavaScript, Python, Java
-- **Frameworks:** Flask, Node.js, Express.js
+- **Languages:** HTML, CSS, JavaScript, Python, Java, Dart
+- **Frameworks:** Flask, Node.js, Express.js, Flutter
 - **Template Engines:** Jinja, EJS
 - **Databases:** MySQL, PostgreSQL, SQLite
 - **Python Libraries:** requests, smtplib, sqlalchemy, selenium, bs4 (BeautifulSoup)
