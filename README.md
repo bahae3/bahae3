@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a Software Engineering student in the Internat
 
 ## About Me
 
-- 🌱 I’m currently learning: Node.js and React.js
+- 🌱 I’m currently learning: Java Spring Boot
 - 📫 How to reach me: https://www.linkedin.com/in/bahae-ddine-el-assaoui/
 
 ## Skills
