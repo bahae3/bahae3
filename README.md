@@ -10,9 +10,9 @@ Welcome to my GitHub profile! I'm a Software Engineering student in the Internat
 ## Skills
 
 - **Languages:** HTML, CSS, JavaScript, Python, Java, Dart
-- **Frameworks:** Flask, Node.js, Express.js, Flutter
-- **Template Engines:** Jinja, EJS
+- **Frameworks:** Flask, Node.js, Flutter
+- **Template Engines:** Jinja, Thymeleaf
 - **Databases:** MySQL, PostgreSQL, SQLite
 - **Python Libraries:** requests, smtplib, sqlalchemy, selenium, bs4 (BeautifulSoup)
 - **JS Libraries:** bodyParser, axios
-- **Tools:** Git, APIs, VS Code, PyCharm
+- **Tools:** Git, APIs, VS Code, PyCharm, Android Studio
