@@ -9,8 +9,8 @@ Welcome to my GitHub profile! I'm a Software Engineering student in the Internat
 
 ## Skills
 
-- **Languages:** HTML, CSS, JavaScript, Python, Java, Dart
-- **Frameworks:** Flask, Node.js, Flutter
+- **Languages:** HTML, CSS, JavaScript, Python, Java
+- **Frameworks:** Flask, Spring Boot, Hibernate
 - **Template Engines:** Jinja, Thymeleaf
 - **Databases:** MySQL, PostgreSQL, SQLite
 - **Python Libraries:** requests, smtplib, sqlalchemy, selenium, bs4 (BeautifulSoup)
