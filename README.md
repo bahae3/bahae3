@@ -9,10 +9,10 @@ Welcome to my GitHub profile! I'm a Software Engineering student in the Internat
 
 ## Skills
 
-- **Languages:** HTML, CSS, JavaScript, Python, Java
-- **Frameworks:** Flask, Spring Boot, Hibernate
+- **Languages:** Java, Python, JavaScript, HTML, CSS
+- **Frameworks:** Spring Boot, Flask, Hibernate, React Native
 - **Template Engines:** Jinja, Thymeleaf
 - **Databases:** MySQL, PostgreSQL, SQLite
 - **Python Libraries:** requests, smtplib, sqlalchemy, selenium, bs4 (BeautifulSoup)
 - **JS Libraries:** bodyParser, axios
-- **Tools:** Git, APIs, VS Code, PyCharm, Android Studio
+- **Tools:** Git, GitHub, APIs, VS Code, PyCharm, Android Studio
